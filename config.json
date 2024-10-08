@@ -1,0 +1,24 @@
+{
+    "platform": "抖音",
+    "screen_ocr": {
+        "selected_window_title": "数码（SKS AUG打法创始人）的抖音直播间 - 抖音直播 和另外 4 个页面 - 个人 - Microsoft​ Edge",
+        "ocr_interval": 0.5,
+        "screen_left": 1380,
+        "screen_top": 638,
+        "screen_right": 2360,
+        "screen_bottom": 1267,
+        "score": 0.2,
+        "max_cache": {
+            "comment": 50,
+            "like": 10
+        }
+    },
+    "ws": {
+        "ip": "0.0.0.0",
+        "port": 8765
+    },
+    "loguru": {
+        "level": "INFO",
+        "max_file_size": "1024 MB"
+    }
+}
