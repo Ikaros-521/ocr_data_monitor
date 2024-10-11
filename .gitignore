@@ -9,3 +9,5 @@ out/*.png
 
 tests/
 安装包/
+
+output/

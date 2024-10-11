@@ -1,12 +1,12 @@
 {
     "platform": "抖音",
     "screen_ocr": {
-        "selected_window_title": "数码（SKS AUG打法创始人）的抖音直播间 - 抖音直播 和另外 4 个页面 - 个人 - Microsoft​ Edge",
+        "selected_window_title": "雾子的抖音直播间 - 抖音直播 - 用户1 - Microsoft​ Edge",
         "ocr_interval": 0.5,
-        "screen_left": 1380,
-        "screen_top": 638,
-        "screen_right": 2360,
-        "screen_bottom": 1267,
+        "screen_left": 1561,
+        "screen_top": 513,
+        "screen_right": 2490,
+        "screen_bottom": 1289,
         "score": 0.2,
         "max_cache": {
             "comment": 50,
