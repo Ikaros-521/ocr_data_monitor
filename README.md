@@ -1,4 +1,10 @@
 <div align="center">
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/Ikaros-521/LX_Project_Template/refs/heads/main/ui/logo.png" width="240" height="240" alt="点我跳转文档">
+  </a>
+</div>
+
+<div align="center">
 
 # ✨ 洛曦 OCR数据监听  ✨
 
