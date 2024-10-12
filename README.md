@@ -22,6 +22,8 @@
 
 基于tkinter开发，使用pyautogui进行屏幕截图，使用CnOCR进行文本识别，最后通过websocket，将解析后的数据发送给所有连接的客户端。
 
+<a href="https://www.bilibili.com/video/BV1pB2NYLEoy" target="_blank">▶︎ 视频教程</span></a>
+
 ## 环境
 
 python: 3.10  
